@@ -5,3 +5,4 @@
 
 ## Installation prereqs
 * PyTorch: follow instructions from  `http://pytorch.org/` depending on your OS
+* Gensim: `pip install gensim`
